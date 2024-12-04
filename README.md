@@ -9,7 +9,7 @@
 
 ![image alt](https://github.com/Md-Rafiqul-Alam/Sales-Management-System-Computer-Hardware-Shop-/blob/main/Supplier.png)
 
-<h1 style="color: red;">Purchase</h1>
+<h1>Purchase</h1>
 
 ![image alt](https://github.com/Md-Rafiqul-Alam/Sales-Management-System-Computer-Hardware-Shop-/blob/main/Purchase1.png)
 
