@@ -47,3 +47,12 @@
 
 ![image alt](https://github.com/Md-Rafiqul-Alam/Sales-Management-System-Computer-Hardware-Shop-/blob/main/All_Reports.png)
 
+<h1>Demo Reports</h1>
+<h3 align='center'>Monthly Purchase Reports</h3>
+
+![image alt](https://github.com/Md-Rafiqul-Alam/Sales-Management-System-Computer-Hardware-Shop-/blob/main/Monthly_Purchase_Reports.png)
+
+<h3 align='center'>Inventory status Report</h3>
+
+![image alt](https://github.com/Md-Rafiqul-Alam/Sales-Management-System-Computer-Hardware-Shop-/blob/main/Inventory_Reports.png)
+
