@@ -1,5 +1,5 @@
 # Sales Management System ( Computer Hardware Shop )
-<p>Developed a Sales Management System to streamline sales processes, manage customer and inventory, generate invoices. The system includes features for real-time sales reporting, automated unique product Id generate, inventory updates and warranty, guarantee tracking for products and services.</p>
+Developed a Sales Management System to streamline sales processes, manage customer and inventory, generate invoices. The system includes features for real-time sales reporting, automated unique product Id generate, inventory updates and warranty, guarantee tracking for products and services.
 
 <h1>Dynamic Dashboard</h1>
 
