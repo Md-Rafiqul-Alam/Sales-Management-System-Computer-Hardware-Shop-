@@ -1,2 +1,2 @@
-# Sales Management System Computer Hardware Shop
+# Sales Management System ( Computer Hardware Shop )
 xyz
