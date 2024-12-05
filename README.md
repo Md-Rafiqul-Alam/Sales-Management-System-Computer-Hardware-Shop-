@@ -3,7 +3,7 @@ Developed a Sales Management System to streamline sales processes, manage custom
 
 <h1>Dynamic Dashboard</h1>
 
-![image alt](https://github.com/Md-Rafiqul-Alam/Sales-Management-System-Computer-Hardware-Shop-/blob/main/Dashboard.png?raw=true)
+![image alt](https://github.com/Md-Rafiqul-Alam/Sales-Management-System-Computer-Hardware-Shop-/blob/main/Dashboard.png)
 
 <h1>Supplier List</h1>
 
