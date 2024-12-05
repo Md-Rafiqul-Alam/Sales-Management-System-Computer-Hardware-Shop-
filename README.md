@@ -1,6 +1,8 @@
 # Sales Management System ( Computer Hardware Shop )
 Developed a Sales Management System to streamline sales processes, manage customer and inventory, generate invoices. The system includes features for real-time sales reporting, automated unique product Id generate, inventory updates and warranty, guarantee tracking for products and services.
 
+<h1><a href="https://apex.oracle.com/pls/apex/r/huapex/raj-computers-ltd/dashboard" target="_blank">Live Project Dashboard</a></h1>
+
 <h1>Dynamic Dashboard</h1>
 
 ![image alt](https://github.com/Md-Rafiqul-Alam/Sales-Management-System-Computer-Hardware-Shop-/blob/main/Dashboard.png)
